@@ -16,7 +16,7 @@ export default function App() {
 
   
 
-  const handleLogin = () =>{
+function handleLogin(){
       console.log(name)
       console.log(user)
       console.log(password)
